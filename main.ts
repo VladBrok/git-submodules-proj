@@ -1,4 +1,4 @@
-import { sayHi } from "./git-submodules-lib/lib";
+import { sayHello } from "./git-submodules-lib/lib";
 
-sayHi();
-sayHi("Vlad");
+sayHello();
+sayHello("Vlad");
